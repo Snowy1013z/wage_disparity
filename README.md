@@ -55,7 +55,7 @@ This project investigates wage disparities between genders using 2021 U.S. Censu
 
 ## 📁 Deliverables
 
-- `Wage_Disparity - LMU Case Comp.pdf`: Full report with data transformations, model outputs, and visual summaries
+- `Wage_Disparity - LMU Case Comp.pdf`: A PPT used to present infont of judges 
 - Visualizations: Wage vs. gender, occupation-adjusted income, regional wage comparisons
 
 ---
